@@ -1,0 +1,13 @@
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\bin\Debug\netcoreapp3.1\CSharpEventExample.exe
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\bin\Debug\netcoreapp3.1\CSharpEventExample.deps.json
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\bin\Debug\netcoreapp3.1\CSharpEventExample.runtimeconfig.json
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\bin\Debug\netcoreapp3.1\CSharpEventExample.runtimeconfig.dev.json
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\bin\Debug\netcoreapp3.1\CSharpEventExample.dll
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\bin\Debug\netcoreapp3.1\CSharpEventExample.pdb
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\obj\Debug\netcoreapp3.1\CSharpEventExample.csprojAssemblyReference.cache
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\obj\Debug\netcoreapp3.1\CSharpEventExample.AssemblyInfoInputs.cache
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\obj\Debug\netcoreapp3.1\CSharpEventExample.AssemblyInfo.cs
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\obj\Debug\netcoreapp3.1\CSharpEventExample.csproj.CoreCompileInputs.cache
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\obj\Debug\netcoreapp3.1\CSharpEventExample.dll
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\obj\Debug\netcoreapp3.1\CSharpEventExample.pdb
+C:\Users\Conda\source\repos\CSharpEventExample\CSharpEventExample\obj\Debug\netcoreapp3.1\CSharpEventExample.genruntimeconfig.cache

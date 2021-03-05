@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtE1iRyjQSW5fjtzHaJGT9TB3Zun2Xy/XlRJ44WB/9yWH4JWw7nnXEZCB3kzwR5uatvZSuGrzfvYiaN2Wc+uaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Conda\\source\\repos\\CSharpEventExample\\CSharpEventExample\\CSharpEventExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Conda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
